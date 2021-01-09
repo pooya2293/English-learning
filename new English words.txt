@@ -11,3 +11,11 @@ $ components -> n:ajzae (one part of a machine or system)
 $ seized -> kashf va zabt (to take something quickly and keep or hold it):I seized his arm and made him turn to look at me.
 
 $ announced -> eelam kard(to give notice of the arrival, presence, or readiness of (something)):announce dinner.
+
+$ repository -> makhzan,anbar,zarf  (a place, room, or container where something is deposited or stored)
+
+$ container -> zarf (a receptacle (such as a box or jar) for holding goods)
+
+$ deposit -> n:sepordeh,tahneshin,v:gozashtan,sepordan,variz (to leave something somewhere): The bus deposited me miles from anywhere.  
+
+$ contributions -> mosharekat
