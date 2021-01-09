@@ -1,5 +1,5 @@
-$ English word -> persian (Explanation-En)
---------------------------------
+$ English word -> persian (Explanation-En):make sentenses
+--------------------------------------------------------
 $ nuclear -> atomi (something that relates to the smallest parts of things called atoms)
 
 $ facilities -> emkanat,tashilat(a building or a factory)//i think in Explanation-En is wrong .
@@ -8,3 +8,6 @@ $ fuel -> n:sookht,v:sookhgiri
 
 $ components -> n:ajzae (one part of a machine or system) 
 
+$ seized -> kashf va zabt (to take something quickly and keep or hold it):I seized his arm and made him turn to look at me.
+
+$ announced -> eelam kard(to give notice of the arrival, presence, or readiness of (something)):announce dinner.
