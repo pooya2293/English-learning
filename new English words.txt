@@ -19,3 +19,5 @@ $ container -> zarf (a receptacle (such as a box or jar) for holding goods)
 $ deposit -> n:sepordeh,tahneshin,v:gozashtan,sepordan,variz (to leave something somewhere): The bus deposited me miles from anywhere.  
 
 $ contributions -> mosharekat
+
+$ In addition -> alave bar in 
