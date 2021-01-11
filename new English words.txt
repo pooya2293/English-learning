@@ -21,3 +21,11 @@ $ deposit -> n:sepordeh,tahneshin,v:gozashtan,sepordan,variz (to leave something
 $ contributions -> mosharekat
 
 $ In addition -> alave bar in 
+
+$ eventually  -> dar nahayat
+
+$ proper -> monaseb,shayesteh
+
+$ appropriate -> monaseb,darkhor
+
+$ indicates,represents -> neshan midahad 
