@@ -29,3 +29,89 @@ $ proper -> monaseb,shayesteh
 $ appropriate -> monaseb,darkhor
 
 $ indicates,represents -> neshan midahad 
+
+$toggle -> zamen
+
+$absolute --> motlagh , mostaghel
+
+$context --> matn,zamine,mafad
+
+$ declare --> eelam , ezhar kardan , goftan
+
+$ Integration --> edgham,yekparchegi,ekhtelat
+
+$ Fundamental --> asasii,bonyadi
+
+$ community  --> anjoman,omoom,ejtemae
+
+$ distribute  --> pakhsh,tozie
+
+$ response --> vakonesh
+
+$ executable --> ghable ejra,ejra pazir
+
+$hoisting  --> boland kardan
+
+$further --> be alave,bishtar,baedie
+
+$retrieve --> bazyabie,eslah
+
+$hashed  --> khord kardan,makhloot kardan
+
+$ response --> vakonesh,pasokh
+
+$ prompt --> sarie, bi derang , forii
+
+$ equivalent --> moadel,barabar,moshabeh
+
+$ constant --> sabet,paydar
+
+$ quotient --> zarib
+
+$ preceded --> moghadam shodan;
+
+$ immutable --> taghiyr napazir;
+
+$ The second element should be a number representing the quantity i.e.
+--> عنصر دوم باید عددی باشد که مقدار را نشان دهد.
+
+$ These two states are mutually exclusive.
+--> این دو حالت از یکدیگر جدا هستند.
+
+$ mutually --> متقابلا
+
+$ exclusive --> انحصاری
+
+$ Modify the welcomeToBooleans function so that it returns true instead of false when the run button is clicked.
+--> عملکرد ولکامتوبولین را تغییر دهید تا هنگام کلیک روی دکمه ران به جای غلط ،درست شود.
+
+$ inequality --> نابرابری
+
+$ equivalent --> معادل
+
+$ tails --> دم
+
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
